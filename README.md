@@ -39,4 +39,4 @@
 
 ## License
 
-[auto-green](https://github.com/ld0574/OfficeTrans) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+[OfficeTrans](https://github.com/ld0574/OfficeTrans) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
