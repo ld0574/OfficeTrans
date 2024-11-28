@@ -1,7 +1,6 @@
 # OfficeTrans
 
-[![Build Status](https://github.com/ld0574/OfficeTrans/workflows/ci/badge.svg?branch=master)](https://github.com/ld0574/OfficeTrans/actions)
-
+[![ci](https://github.com/ld0574/OfficeTrans/actions/workflows/ci.yml/badge.svg)](https://github.com/ld0574/OfficeTrans/actions/workflows/ci.yml)
 
 > Just commit a day keeps Office alive.
 
